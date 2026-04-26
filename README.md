@@ -6,8 +6,7 @@
 
 ## Sobre mim
 
-Estudante de Backend focado em construir APIs modernas e bem estruturadas
-Sempre evoluindo em boas práticas, arquitetura e performance
+Estudante de desenvolvimento Backend com foco na construção de APIs modernas, bem estruturadas e escaláveis. Tenho experiência prática com Node.js, criando projetos que simulam cenários reais e aplicam boas práticas como organização de código, validação de dados e arquitetura em camadas. Busco constantemente evoluir em áreas como performance, design de software e desenvolvimento de aplicações robustas, sempre priorizando código limpo, legível e de fácil manutenção.
 
 ## Objetivo
 
@@ -17,8 +16,7 @@ Evoluir como desenvolvedor backend, dominando tecnologias modernas e construindo
 
 ## About Me
 
-Backend student focused on building modern and well-structured APIs
-Constantly improving in best practices, architecture, and performance
+Backend development student focused on building modern, well-structured, and scalable APIs. I have hands-on experience with Node.js, developing projects that simulate real-world scenarios and apply best practices such as code organization, data validation, and layered architecture. I am constantly improving my skills in areas like performance, software design, and robust application development, always prioritizing clean, readable, and maintainable code.
 
 ## Goal
 
