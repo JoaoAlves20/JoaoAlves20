@@ -4,31 +4,21 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FFB3&size=28&center=true&vCenter=true&width=1000&lines=Estudante+de+Backend;JavaScript+%7C+TypeScript+%7C+Java;Construindo+APIs+robustas+e+escaláveis;Sempre+aprendendo+algo+novo+🚀" />
 </p>
 
----
-
 ## Sobre mim
 
 Estudante de Backend focado em construir APIs modernas e bem estruturadas
 Sempre evoluindo em boas práticas, arquitetura e performance
 
----
-
 ## Objetivo
 
 Evoluir como desenvolvedor backend, dominando tecnologias modernas e construindo soluções escaláveis e eficientes.
 
----
-
-## 👋 Hi, I'm João Alves [🇺🇸 English]
-
----
+# 👋 Hi, I'm João Alves [🇺🇸 English]
 
 ## About Me
 
 Backend student focused on building modern and well-structured APIs
 Constantly improving in best practices, architecture, and performance
-
----
 
 ## Goal
 
